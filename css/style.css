@@ -11,6 +11,7 @@ body {
 	margin: 0;
 	background:none ;
 	font-family: 'Open Sans', sans-serif;
+
 }
 body a {
 	color:#fff;
@@ -484,7 +485,7 @@ div#testimon {
     height: auto;
 }
 .flex-control-nav {
-    right: 50%;
+    right: 45%;
     bottom: 0;
 }
 h6.review {
@@ -668,6 +669,7 @@ color: #f9e9d3;
     color: #fff;
 	    letter-spacing: 1px;
 }
+
 .copyright a:hover {
     color: #f9f903;
 }
