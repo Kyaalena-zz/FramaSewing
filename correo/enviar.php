@@ -19,16 +19,16 @@ $mensaje = $_POST["message"];
 $contacto = "Contact";
 
 //Correo al que llegaran los mensages enviados desde contact us
-$destinatario = "baltsb@gmail.com";
+$destinatario = "framaupholstery@gmail.com";
 
 //**********Configuración de servidor de correo******
 
 
 
 // Datos de la cuenta de correo utilizada para enviar vía SMTP
-$smtpHost = "smtp.gmail.com";  // Dominio alternativo brindado en el email de alta
-$smtpUsuario = "baltsb@gmail.com";  // Mi cuenta de correo
-$smtpClave = "contactinfo";  // Mi contraseña
+$smtpHost = "mail.framaupholstery.com";  // Dominio alternativo brindado en el email de alta
+$smtpUsuario = "contact@framaupholstery.com";  // Mi cuenta de correo
+$smtpClave = "Baltazar123!";  // Mi contraseña
 
 
 //Inicio del PHPMailer
